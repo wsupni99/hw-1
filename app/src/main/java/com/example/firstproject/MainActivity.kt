@@ -9,7 +9,7 @@ import com.bumptech.glide.Glide
 import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
-
+// Йоу
     val picturesList = listOf(
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/320px-Example.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/320px-HST-SM4.jpeg",
